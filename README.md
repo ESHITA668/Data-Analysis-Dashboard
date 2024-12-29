@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-This Power BI dashboard provides comprehensive insights into sales data. It is designed to help businesses analyze their performance, identify key trends, and make data-driven decisions. The dashboard includes interactive visualizations and metrics that offer a detailed overview of sales performance, product trends, and regional insights.
+# Data Sales Insights using Power BI Dashboard and MySQL Workbench
+
+This project provides insights into sales data by using MySQL for data storage and Power BI for data visualization. The goal is to analyze sales trends, regional performance, and other business metrics using a Power BI dashboard. The data is stored and managed in a MySQL database.
+
