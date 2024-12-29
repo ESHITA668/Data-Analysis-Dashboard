@@ -26,6 +26,7 @@ User-Friendly Dashboards: The interactive dashboards allow non-technical users t
 Scalability: The project can scale easily to handle large datasets and can be extended to include advanced features like predictive analytics and machine learning for sales forecasting.
 Business Impact: By highlighting key performance metrics, the project helps businesses optimize sales strategies, improve product offerings, and enhance customer relationships, making it a highly impactful solution.
 
+https://github.com/ESHITA668/Data-Analysis-Dashboard/blob/main/visuals.jpg
 
 ## Feedback and Collaboration:
 Feedback: The project provides actionable insights for sales improvement, with stakeholders appreciating the clarity and depth of the visualizations.
