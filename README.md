@@ -25,10 +25,7 @@ Real-Time Insights: By connecting Power BI to a live MySQL database, the project
 User-Friendly Dashboards: The interactive dashboards allow non-technical users to explore the data and gain insights without having to write complex queries. The use of filters and slicers makes the experience dynamic and tailored to individual needs.
 Scalability: The project can scale easily to handle large datasets and can be extended to include advanced features like predictive analytics and machine learning for sales forecasting.
 Business Impact: By highlighting key performance metrics, the project helps businesses optimize sales strategies, improve product offerings, and enhance customer relationships, making it a highly impactful solution.
-## Repository Structure
-Data: Contains the sample dataset (if sharing is permitted)
-Dashboard:POWER BI fike(.pbix) of the project.
-IMAGES: Contains screenshots of the dasboard for easy preview.
+
 
 ## Feedback and Collaboration:
 Feedback: The project provides actionable insights for sales improvement, with stakeholders appreciating the clarity and depth of the visualizations.
